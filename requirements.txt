@@ -1,2 +1,1 @@
-sklearn
-preprocessing
+matplotlib==3.4.1
